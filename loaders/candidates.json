@@ -1,0 +1,142 @@
+[  
+	{  
+	   "id":1,
+	   "name":"BOAKAI JOSEPH NYUMA",
+	   "party":"UP",
+	   "num":"1",
+	   "photo":"c1.jpg"
+	},
+	{  
+	   "id":2,
+	   "name":"BRUMSKINE CHARLES WALKER",
+	   "party":"LP",
+	   "num":"2",
+	   "photo":"c2.jpg"
+	},
+	{  
+	   "id":3,
+	   "name":"COOPER MACDELLA B.",
+	   "party":"LRP",
+	   "num":"3",
+	   "photo":"c3.jpg"
+	},
+	{  
+	   "id":4,
+	   "name":"COOPER OSCAR",
+	   "party":"INDEPENDENT",
+	   "num":"4",
+	   "photo":"c4.jpg"
+	},
+	{  
+	   "id":5,
+	   "name":"CUMMINGS ALEXANDER B.",
+	   "party":"ANC",
+	   "num":"5",
+	   "photo":"c5.jpg"
+	},
+	{  
+	   "id":6,
+	   "name":"DWEH SR. GEORGE SLUWEH",
+	   "party":"RDC",
+	   "num":"6",
+	   "photo":"c6.jpg"
+	},
+	{  
+	   "id":7,
+	   "name":"FAHNBULLEH JR. HENRY BOIMA",
+	   "party":"LPP",
+	   "num":"7",
+	   "photo":"c7.jpg"
+	},
+	{  
+	   "id":8,
+	   "name":"FREEMAN SIMEON C.M",
+	   "party":"MPC",
+	   "num":"8",
+	   "photo":"c8.jpg"
+	},
+	{  
+	   "id":9,
+	   "name":"JOHNSON PRINCE Y.",
+	   "party":"MDR",
+	   "num":"9",
+	   "photo":"c9.jpg"
+	},
+	{  
+	   "id":10,
+	   "name":"JONES JOSEPH MILLS",
+	   "party":"MOVEE",
+	   "num":"10",
+	   "photo":"c10.jpg"
+	},
+	{  
+	   "id":11,
+	   "name":"KPADEH ALOYSIUS WILLIAM",
+	   "party":"INDEPENDENT",
+	   "num":"11",
+	   "photo":"c11.jpg"
+	},
+	{  
+	   "id":12,
+	   "name":"MATOR YARKPAJUWUR N.",
+	   "party":"INDEPENDENT",
+	   "num":"12",
+	   "photo":"c12.jpg"
+	},
+	{  
+	   "id":13,
+	   "name":"MCINTOSH WENDELL J.E.",
+	   "party":"CDA",
+	   "num":"13",
+	   "photo":"c13.jpg"
+	},
+	{  
+	   "id":14,
+	   "name":"SANDY KENNEDY GBLEYAH",
+	   "party":"LTP",
+	   "num":"14",
+	   "photo":"c14.jpg"
+	},
+	{  
+	   "id":15,
+	   "name":"TUIDER WILLIAM WIAH",
+	   "party":"NLP",
+	   "num":"15",
+	   "photo":"c15.jpg"
+	},
+	{  
+	   "id":16,
+	   "name":"UREY BENONI WILFRED",
+	   "party":"ALP",
+	   "num":"16",
+	   "photo":"c16.jpg"
+	},
+	{  
+	   "id":17,
+	   "name":"WEAH GEORGE MANNEH",
+	   "party":"CDC",
+	   "num":"17",
+	   "photo":"c17.jpg"
+	},
+	{  
+	   "id":18,
+	   "name":"WEAPOE JEREMIAH Z.",
+	   "party":"VOLT",
+	   "num":"18",
+	   "photo":"c18.jpg"
+	},
+	{  
+	   "id":19,
+	   "name":"WENTO MACDONALD A.",
+	   "party":"UPP",
+	   "num":"19",
+	   "photo":"c19.jpg"
+	},
+	{  
+	   "id":20,
+	   "name":"WILES ISAAC GBOMBADEE",
+	   "party":"DJP",
+	   "num":"20",
+	   "photo":"c20.jpg"
+	}
+ ]
